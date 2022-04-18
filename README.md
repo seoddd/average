@@ -1,5 +1,7 @@
 # average
 Find the average of numbers
+
+
 #include <stdio.h>
 
 int main(void) {
